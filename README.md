@@ -12,3 +12,7 @@ another edit
 adding text as well!!
 
 some more changes for this course
+
+# Getting Started
+
+This is how you get started
